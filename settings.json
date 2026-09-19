@@ -1,0 +1,16 @@
+{
+  "liveServer.settings.port": 5500,
+  "liveServer.settings.root": "/",
+  "liveServer.settings.CustomBrowser": "chrome",
+  "editor.tabSize": 2,
+  "editor.wordWrap": "on",
+  "files.associations": {
+    "*.html": "html",
+    "*.css": "css",
+    "*.js": "javascript",
+    "*.json": "json"
+  },
+  "emmet.includeLanguages": { "html": "html" },
+  "css.validate": true,
+  "javascript.suggest.autoImports": false
+}
